@@ -17,11 +17,12 @@ This project demonstrates a robust pipeline for deploying a Dockerized applicati
 
 ## 📦 Technologies Used
 
-- **Jenkins**: For CI/CD automation
 - **Docker**: For containerizing the application
-- **Kubernetes**: For orchestration and deployment
-- **Prometheus**: For monitoring and metrics
-- **Grafana**: For visualizing performance data
+- **Jenkins**: For CI/CD automation
+- **Kubernetes**: For orchestrating the deployment
+- **MySQL**: For database management
+- **Prometheus**: For monitoring application performance
+- **Grafana**: For visualizing metrics
 - **Trivy**: For vulnerability scanning of Docker images
 
 ## 🛠 Installation and Setup

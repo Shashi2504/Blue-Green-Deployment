@@ -48,7 +48,7 @@ Pipeline Steps:
 - **Switch Traffic to Green:** Upon successful testing, traffic is routed to green, enabling a seamless transition for users with minimal downtime.
 - **Fallback to Blue:** If issues arise, traffic is instantly reverted to blue, allowing a rapid rollback that minimizes user impact and maintains service reliability.
 
-## Key Benefits
+## 🔧 Key Benefits
 
 - **Zero Downtime:** Users experience uninterrupted service as updates are applied seamlessly, maintaining a consistent user experience.
 - **Risk Reduction:** Immediate rollback is possible if issues arise, allowing swift recovery and maintaining user trust.

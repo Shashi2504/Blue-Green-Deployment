@@ -1,6 +1,6 @@
 # Blue-Green Deployment Strategy for Dockerized Applications Using Jenkins and Kubernetes
 
-![Project Logo](path/to/logo.png) <!-- Replace with your project logo -->
+![Project Logo](./Architecture.png) <!-- Replace with your project logo -->
 
 ## 📖 Overview
 

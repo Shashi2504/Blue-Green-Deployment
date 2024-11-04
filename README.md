@@ -6,7 +6,7 @@
 
 This project demonstrates a robust pipeline for deploying a Dockerized application using Jenkins in a Kubernetes environment. The pipeline employs a **blue-green deployment strategy**, ensuring minimal downtime and seamless updates. This setup enhances application availability and reliability, making it suitable for production environments.
 
-## Key Steps
+## 🚀 Key Steps
 
 ### Set up EKS Cluster Using Terraform:
 Terraform provisions an EKS cluster in AWS, automating the setup of nodes, networking, and security configurations. Version-controlled infrastructure enables easy scaling, modification, and consistent environments across different stages.
